@@ -36,7 +36,7 @@ def log_step(message):
     print(f"[{timestamp}] {message}")
 try:
     log_step("🔧 Initializing Gemini API...")
-    genai.configure(api_key="AIzaSyACQwN6IEzGeB59hUvVhGwpWJQiaHr5q9k")
+    genai.configure(api_key="put_your_api_key_here")
     model = genai.GenerativeModel(GEMINI_MODEL)
     log_step("✅ Gemini API initialized successfully.")
 except (ValueError, TypeError) as e:

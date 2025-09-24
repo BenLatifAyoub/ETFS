@@ -1,0 +1,3900 @@
+{
+    "VYMI\nVanguard": {
+        "isin": "VYMI\nVanguard",
+        "name": "Vanguard International High Dividend Yield ETF",
+        "holdings": [
+            {
+                "name": "Nestle SA",
+                "weight": 1.54,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Novartis AG",
+                "weight": 1.52,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Roche Holding AG",
+                "weight": 1.47,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "HSBC Holdings plc",
+                "weight": 1.45,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Shell plc",
+                "weight": 1.42,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Royal Bank of Canada",
+                "weight": 1.32,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Toyota Motor Corp.",
+                "weight": 1.32,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Commonwealth Bank of Australia",
+                "weight": 1.19,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Mitsubishi UFJ Financial Group Inc.",
+                "weight": 1.09,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Allianz SE",
+                "weight": 1.05,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            }
+        ]
+    },
+    "VMBS\nVanguard": {
+        "isin": "VMBS\nVanguard",
+        "name": "Vanguard Mortgage-Backed Securities ETF",
+        "holdings": [
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 7.25,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 6.48,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 6.39,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 4.65,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 4.49,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 4.15,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 4.01,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Government National Mortgage Assn.",
+                "weight": 3.78,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 3.62,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 3.54,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            }
+        ]
+    },
+    "IE00BFZPRS19": {
+        "isin": "IE00BFZPRS19",
+        "name": "iShares Developed World Index Fund (IE)",
+        "holdings": [
+            {
+                "name": "NVIDIA CORP",
+                "weight": 5.44,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "MICROSOFT CORP",
+                "weight": 4.58,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "APPLE INC",
+                "weight": 4.44,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "AMAZON COM INC",
+                "weight": 2.8,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "META PLATFORMS INC CLASS A",
+                "weight": 2.05,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "BROADCOM INC",
+                "weight": 1.7,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "ALPHABET INC CLASS A",
+                "weight": 1.59,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "ALPHABET INC CLASS C",
+                "weight": 1.34,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "TESLA INC",
+                "weight": 1.24,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "JPMORGAN CHASE & CO",
+                "weight": 1.07,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            }
+        ]
+    },
+    "IE00B5BMR087": {
+        "isin": "IE00B5BMR087",
+        "name": "iShares Core S&P 500 UCITS ETF",
+        "holdings": [
+            {
+                "name": "NVIDIA CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 7.84,
+                "isin": "N/A"
+            },
+            {
+                "name": "MICROSOFT CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 6.69,
+                "isin": "N/A"
+            },
+            {
+                "name": "APPLE INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 6.65,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMAZON COM INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 3.87,
+                "isin": "N/A"
+            },
+            {
+                "name": "META PLATFORMS INC CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 2.9,
+                "isin": "N/A"
+            },
+            {
+                "name": "BROADCOM INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 2.79,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALPHABET INC CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 2.57,
+                "isin": "N/A"
+            },
+            {
+                "name": "TESLA INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 2.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALPHABET INC CLASS C",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 2.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "BERKSHIRE HATHAWAY INC CLASS B",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 1.58,
+                "isin": "N/A"
+            },
+            {
+                "name": "JPMORGAN CHASE & CO",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 1.5,
+                "isin": "N/A"
+            },
+            {
+                "name": "ELI LILLY",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 1.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "VISA INC CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 1.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "ORACLE CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.95,
+                "isin": "N/A"
+            },
+            {
+                "name": "NETFLIX INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.91,
+                "isin": "N/A"
+            },
+            {
+                "name": "MASTERCARD INC CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.84,
+                "isin": "N/A"
+            },
+            {
+                "name": "EXXON MOBIL CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.84,
+                "isin": "N/A"
+            },
+            {
+                "name": "WALMART INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.79,
+                "isin": "N/A"
+            },
+            {
+                "name": "JOHNSON & JOHNSON",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.73,
+                "isin": "N/A"
+            },
+            {
+                "name": "COSTCO WHOLESALE CORP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.73,
+                "isin": "N/A"
+            },
+            {
+                "name": "HOME DEPOT INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.72,
+                "isin": "N/A"
+            },
+            {
+                "name": "PALANTIR TECHNOLOGIES INC CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.71,
+                "isin": "N/A"
+            },
+            {
+                "name": "ABBVIE INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.69,
+                "isin": "N/A"
+            },
+            {
+                "name": "PROCTER & GAMBLE",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.63,
+                "isin": "N/A"
+            },
+            {
+                "name": "BANK OF AMERICA CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.62,
+                "isin": "N/A"
+            },
+            {
+                "name": "GE AEROSPACE",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.56,
+                "isin": "N/A"
+            },
+            {
+                "name": "UNITEDHEALTH GROUP INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.54,
+                "isin": "N/A"
+            },
+            {
+                "name": "CHEVRON CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.53,
+                "isin": "N/A"
+            },
+            {
+                "name": "WELLS FARGO",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.48,
+                "isin": "N/A"
+            },
+            {
+                "name": "CISCO SYSTEMS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.47,
+                "isin": "N/A"
+            },
+            {
+                "name": "ADVANCED MICRO DEVICES INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.45,
+                "isin": "N/A"
+            },
+            {
+                "name": "COCA-COLA",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.45,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTERNATIONAL BUSINESS MACHINES CO",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.44,
+                "isin": "N/A"
+            },
+            {
+                "name": "PHILIP MORRIS INTERNATIONAL INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.44,
+                "isin": "N/A"
+            },
+            {
+                "name": "GOLDMAN SACHS GROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.43,
+                "isin": "N/A"
+            },
+            {
+                "name": "SALESFORCE INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.42,
+                "isin": "N/A"
+            },
+            {
+                "name": "ABBOTT LABORATORIES",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.42,
+                "isin": "N/A"
+            },
+            {
+                "name": "LINDE PLC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.39,
+                "isin": "N/A"
+            },
+            {
+                "name": "CATERPILLAR INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.39,
+                "isin": "N/A"
+            },
+            {
+                "name": "MCDONALDS CORP",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.38,
+                "isin": "N/A"
+            },
+            {
+                "name": "RTX CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.37,
+                "isin": "N/A"
+            },
+            {
+                "name": "UBER TECHNOLOGIES INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.36,
+                "isin": "N/A"
+            },
+            {
+                "name": "AT&T INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.36,
+                "isin": "N/A"
+            },
+            {
+                "name": "WALT DISNEY",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.35,
+                "isin": "N/A"
+            },
+            {
+                "name": "MERCK & CO INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.35,
+                "isin": "N/A"
+            },
+            {
+                "name": "SERVICENOW INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.34,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTUIT INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.34,
+                "isin": "N/A"
+            },
+            {
+                "name": "MORGAN STANLEY",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.34,
+                "isin": "N/A"
+            },
+            {
+                "name": "PEPSICO INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.34,
+                "isin": "N/A"
+            },
+            {
+                "name": "CITIGROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.33,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMERICAN EXPRESS",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.32,
+                "isin": "N/A"
+            },
+            {
+                "name": "MICRON TECHNOLOGY INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.32,
+                "isin": "N/A"
+            },
+            {
+                "name": "QUALCOMM INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.32,
+                "isin": "N/A"
+            },
+            {
+                "name": "VERIZON COMMUNICATIONS INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.32,
+                "isin": "N/A"
+            },
+            {
+                "name": "THERMO FISHER SCIENTIFIC INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.31,
+                "isin": "N/A"
+            },
+            {
+                "name": "BOOKING HOLDINGS INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.31,
+                "isin": "N/A"
+            },
+            {
+                "name": "GE VERNOVA INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.31,
+                "isin": "N/A"
+            },
+            {
+                "name": "APPLOVIN CORP CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.3,
+                "isin": "N/A"
+            },
+            {
+                "name": "LAM RESEARCH CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.29,
+                "isin": "N/A"
+            },
+            {
+                "name": "BLACKROCK INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.29,
+                "isin": "N/A"
+            },
+            {
+                "name": "TEXAS INSTRUMENT INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.29,
+                "isin": "N/A"
+            },
+            {
+                "name": "CHARLES SCHWAB CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.28,
+                "isin": "N/A"
+            },
+            {
+                "name": "APPLIED MATERIAL INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.28,
+                "isin": "N/A"
+            },
+            {
+                "name": "BOEING",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.28,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTUITIVE SURGICAL INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.28,
+                "isin": "N/A"
+            },
+            {
+                "name": "S&P GLOBAL INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.28,
+                "isin": "N/A"
+            },
+            {
+                "name": "TJX INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.27,
+                "isin": "N/A"
+            },
+            {
+                "name": "ADOBE INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.27,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMGEN INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.27,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMPHENOL CORP CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.26,
+                "isin": "N/A"
+            },
+            {
+                "name": "ARISTA NETWORKS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.26,
+                "isin": "N/A"
+            },
+            {
+                "name": "ACCENTURE PLC CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.26,
+                "isin": "N/A"
+            },
+            {
+                "name": "NEXTERA ENERGY INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.26,
+                "isin": "N/A"
+            },
+            {
+                "name": "EATON PLC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.26,
+                "isin": "N/A"
+            },
+            {
+                "name": "LOWES COMPANIES INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.26,
+                "isin": "N/A"
+            },
+            {
+                "name": "CAPITAL ONE FINANCIAL CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.25,
+                "isin": "N/A"
+            },
+            {
+                "name": "BOSTON SCIENTIFIC CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.25,
+                "isin": "N/A"
+            },
+            {
+                "name": "KLA CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.25,
+                "isin": "N/A"
+            },
+            {
+                "name": "PROGRESSIVE CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.25,
+                "isin": "N/A"
+            },
+            {
+                "name": "GILEAD SCIENCES INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.24,
+                "isin": "N/A"
+            },
+            {
+                "name": "PALO ALTO NETWORKS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.24,
+                "isin": "N/A"
+            },
+            {
+                "name": "BLACKSTONE INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.24,
+                "isin": "N/A"
+            },
+            {
+                "name": "PFIZER INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.24,
+                "isin": "N/A"
+            },
+            {
+                "name": "UNION PACIFIC CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.23,
+                "isin": "N/A"
+            },
+            {
+                "name": "HONEYWELL INTERNATIONAL INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.23,
+                "isin": "N/A"
+            },
+            {
+                "name": "STRYKER CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.23,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTEL CORPORATION CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.22,
+                "isin": "N/A"
+            },
+            {
+                "name": "CROWDSTRIKE HOLDINGS INC CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.22,
+                "isin": "N/A"
+            },
+            {
+                "name": "ANALOG DEVICES INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.21,
+                "isin": "N/A"
+            },
+            {
+                "name": "DANAHER CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.21,
+                "isin": "N/A"
+            },
+            {
+                "name": "MEDTRONIC PLC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.21,
+                "isin": "N/A"
+            },
+            {
+                "name": "AUTOMATIC DATA PROCESSING INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.21,
+                "isin": "N/A"
+            },
+            {
+                "name": "DEERE",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.21,
+                "isin": "N/A"
+            },
+            {
+                "name": "COMCAST CORP CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.2,
+                "isin": "N/A"
+            },
+            {
+                "name": "CONOCOPHILLIPS",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.2,
+                "isin": "N/A"
+            },
+            {
+                "name": "T MOBILE US INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.2,
+                "isin": "N/A"
+            },
+            {
+                "name": "WELLTOWER INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.2,
+                "isin": "N/A"
+            },
+            {
+                "name": "CONSTELLATION ENERGY CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.19,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALTRIA GROUP INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.19,
+                "isin": "N/A"
+            },
+            {
+                "name": "PROLOGIS REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.19,
+                "isin": "N/A"
+            },
+            {
+                "name": "CADENCE DESIGN SYSTEMS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.18,
+                "isin": "N/A"
+            },
+            {
+                "name": "SOUTHERN",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.18,
+                "isin": "N/A"
+            },
+            {
+                "name": "CHUBB LTD",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.18,
+                "isin": "N/A"
+            },
+            {
+                "name": "KKR AND CO INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.18,
+                "isin": "N/A"
+            },
+            {
+                "name": "LOCKHEED MARTIN CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "VERTEX PHARMACEUTICALS INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTERCONTINENTAL EXCHANGE INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "DOORDASH INC CLASS A",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "PARKER-HANNIFIN CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "STARBUCKS CORP",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "MARSH & MCLENNAN INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "SYNOPSYS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "ROBINHOOD MARKETS INC CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "CVS HEALTH CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "DUKE ENERGY CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.17,
+                "isin": "N/A"
+            },
+            {
+                "name": "CME GROUP INC CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.16,
+                "isin": "N/A"
+            },
+            {
+                "name": "NEWMONT",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.16,
+                "isin": "N/A"
+            },
+            {
+                "name": "BRISTOL MYERS SQUIBB",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.16,
+                "isin": "N/A"
+            },
+            {
+                "name": "TRANE TECHNOLOGIES PLC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.16,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMERICAN TOWER REIT CORP",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.16,
+                "isin": "N/A"
+            },
+            {
+                "name": "OREILLY AUTOMOTIVE INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.15,
+                "isin": "N/A"
+            },
+            {
+                "name": "MCKESSON CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.15,
+                "isin": "N/A"
+            },
+            {
+                "name": "NIKE INC CLASS B",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.15,
+                "isin": "N/A"
+            },
+            {
+                "name": "ROYAL CARIBBEAN GROUP LTD",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "MONDELEZ INTERNATIONAL INC CLASS A",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "3M",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "GENERAL DYNAMICS CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "SHERWIN WILLIAMS",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "PNC FINANCIAL SERVICES GROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "WASTE MANAGEMENT INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "MOTOROLA SOLUTIONS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "EQUINIX REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "NORTHROP GRUMMAN CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "HOWMET AEROSPACE INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "BANK OF NEW YORK MELLON CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.14,
+                "isin": "N/A"
+            },
+            {
+                "name": "CIGNA",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "US BANCORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "ARTHUR J GALLAGHER",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "AON PLC CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "MOODYS CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "COINBASE GLOBAL INC CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "EMERSON ELECTRIC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "WILLIAMS INC",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "TRANSDIGM GROUP INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "ELEVANCE HEALTH INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "JOHNSON CONTROLS INTERNATIONAL PLC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.13,
+                "isin": "N/A"
+            },
+            {
+                "name": "FISERV INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "AUTODESK INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "VISTRA CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "CINTAS CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "ILLINOIS TOOL INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "AUTOZONE INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "ECOLAB INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "HCA HEALTHCARE INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "APOLLO GLOBAL MANAGEMENT INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.12,
+                "isin": "N/A"
+            },
+            {
+                "name": "NORFOLK SOUTHERN CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "FREEPORT MCMORAN INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "PAYPAL HOLDINGS INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "TE CONNECTIVITY PLC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "COLGATE-PALMOLIVE",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "ZOETIS INC CLASS A",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "AIR PRODUCTS AND CHEMICALS INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "EOG RESOURCES INC",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "HILTON WORLDWIDE HOLDINGS INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "TRAVELERS COMPANIES INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "UNITED PARCEL SERVICE INC CLASS B",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "CSX CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "CORNING INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "AXON ENTERPRISE INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "UNITED RENTALS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "REGENERON PHARMACEUTICALS INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.11,
+                "isin": "N/A"
+            },
+            {
+                "name": "MARRIOTT INTERNATIONAL INC CLASS A",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "SIMON PROPERTY GROUP REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "QUANTA SERVICES INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "CUMMINS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "TRUIST FINANCIAL CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "USD CASH",
+                "sector": "Cash und/oder Derivate",
+                "securityType": "Geldmarkt",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMERICAN ELECTRIC POWER INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "MARATHON PETROLEUM CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "NXP SEMICONDUCTORS NV",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "GENERAL MOTORS",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "CENCORA INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "DIGITAL REALTY TRUST REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "FORTINET INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "ROPER TECHNOLOGIES INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALLSTATE CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.1,
+                "isin": "N/A"
+            },
+            {
+                "name": "FASTENAL",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "AIRBNB INC CLASS A",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "CHIPOTLE MEXICAN GRILL INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "SEMPRA",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "REALTY INCOME REIT CORP",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "BECTON DICKINSON",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "L3HARRIS TECHNOLOGIES INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "KINDER MORGAN INC",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "WORKDAY INC CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "PHILLIPS",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "VALERO ENERGY CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "AFLAC INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "IDEXX LABORATORIES INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "DOMINION ENERGY INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "PACCAR INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "SCHLUMBERGER NV",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "FEDEX CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "SEAGATE TECHNOLOGY HOLDINGS PLC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.09,
+                "isin": "N/A"
+            },
+            {
+                "name": "CARRIER GLOBAL CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "WARNER BROS. DISCOVERY INC SERIES",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "CBRE GROUP INC CLASS A",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "CORTEVA INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "ROSS STORES INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "BAKER HUGHES CLASS A",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMERIPRISE FINANCE INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "REPUBLIC SERVICES INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "D R HORTON INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "FORD MOTOR CO",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "METLIFE INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "MONSTER BEVERAGE CORP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "ONEOK INC",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "DATADOG INC CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "PUBLIC STORAGE REIT",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "MONOLITHIC POWER SYSTEMS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "MSCI INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "EXELON CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMETEK INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "EDWARDS LIFESCIENCES CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "WW GRAINGER INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.08,
+                "isin": "N/A"
+            },
+            {
+                "name": "XCEL ENERGY INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "BLOCK INC CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMERICAN INTERNATIONAL GROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "PAYCHEX INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "YUM BRANDS INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "EBAY INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "CROWN CASTLE INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "KIMBERLY CLARK CORP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "PUBLIC SERVICE ENTERPRISE GROUP IN",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "DELL TECHNOLOGIES INC CLASS C",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "NASDAQ INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "RESMED INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "COPART INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "ENTERGY CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "TARGET CORP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "VULCAN MATERIALS",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "KROGER",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "ELECTRONIC ARTS INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "WESTERN DIGITAL CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "ROCKWELL AUTOMATION INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "SYSCO CORP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "GARMIN LTD",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "DELTA AIR LINES INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "MARTIN MARIETTA MATERIALS INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.07,
+                "isin": "N/A"
+            },
+            {
+                "name": "FAIR ISAAC CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "HARTFORD INSURANCE GROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "COSTAR GROUP INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "PRUDENTIAL FINANCIAL INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "AGILENT TECHNOLOGIES INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "TARGA RESOURCES CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "KEURIG DR PEPPER INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "WEC ENERGY GROUP INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "CARDINAL HEALTH INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "MICROCHIP TECHNOLOGY INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "OTIS WORLDWIDE CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "CONSOLIDATED EDISON INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "XYLEM INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "GE HEALTHCARE TECHNOLOGIES INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "VERISK ANALYTICS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIE",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "FIDELITY NATIONAL INFORMATION SERV",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "UNITED AIRLINES HOLDINGS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "CARNIVAL CORP",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "COGNIZANT TECHNOLOGY SOLUTIONS COR",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "VICI PPTYS INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "HEWLETT PACKARD ENTERPRISE",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "NRG ENERGY INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "WILLIS TOWERS WATSON PLC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "ARCH CAPITAL GROUP LTD",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "KENVUE INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "OCCIDENTAL PETROLEUM CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "DUPONT DE NEMOURS INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "PG&E CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "STATE STREET CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "IQVIA HOLDINGS INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "EQUIFAX INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.06,
+                "isin": "N/A"
+            },
+            {
+                "name": "EQT CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "RAYMOND JAMES INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "M&T BANK CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "HUMANA INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "IRON MOUNTAIN INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "TRACTOR SUPPLY",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "NUCOR CORP",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "KEYSIGHT TECHNOLOGIES INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "VENTAS REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "FIFTH THIRD BANCORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "INGERSOLL RAND INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "EXTRA SPACE STORAGE REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "EMCOR GROUP INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "ARCHER DANIELS MIDLAND",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTERACTIVE BROKERS GROUP INC CLAS",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "HERSHEY FOODS",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "BROADRIDGE FINANCIAL SOLUTIONS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "DTE ENERGY",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "SYNCHRONY FINANCIAL",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "LENNAR A CORP CLASS A",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "AVALONBAY COMMUNITIES REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "DEXCOM INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "BROWN & BROWN INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "GENERAL MILLS INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMEREN CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "TELEDYNE TECHNOLOGIES INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "HP INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "EXPEDIA GROUP INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMERICAN WATER WORKS INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "PPL CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "VERALTO CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "DIAMONDBACK ENERGY INC",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "METTLER TOLEDO INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "LIVE NATION ENTERTAINMENT INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "ATMOS ENERGY CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.05,
+                "isin": "N/A"
+            },
+            {
+                "name": "OLD DOMINION FREIGHT LINE INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "PULTEGROUP INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "NORTHERN TRUST CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "JABIL INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "HUNTINGTON BANCSHARES INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "EVERSOURCE ENERGY",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "NETAPP INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CENTERPOINT ENERGY INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "PTC INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CHARTER COMMUNICATIONS INC CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "PPG INDUSTRIES INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "STERIS",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CBOE GLOBAL MARKETS INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTERNATIONAL PAPER",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "LEIDOS HOLDINGS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "WILLIAMS SONOMA INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CINCINNATI FINANCIAL CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "VERISIGN INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "REGIONS FINANCIAL CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "INSULET CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "TAPESTRY INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "ULTA BEAUTY INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "SUPER MICRO COMPUTER INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "FIRST SOLAR INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "EXPAND ENERGY CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "DOVER CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "HUBBELL INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "TYLER TECHNOLOGIES INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "LABCORP HOLDINGS INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "T ROWE PRICE GROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "NVR INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "SMURFIT WESTROCK PLC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CITIZENS FINANCIAL GROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "KRAFT HEINZ",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "DOLLAR GENERAL CORP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "EQUITY RESIDENTIAL REIT",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "FIRSTENERGY CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "WR BERKLEY CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "DARDEN RESTAURANTS INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CDW CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "TERADYNE INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "DEVON ENERGY CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "SBA COMMUNICATIONS REIT CORP CLASS",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CHURCH AND DWIGHT INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CORPAY INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "GLOBAL PAYMENTS INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "CMS ENERGY CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "EDISON INTERNATIONAL",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "ON SEMICONDUCTOR CORP",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "TRADE DESK INC CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "QUEST DIAGNOSTICS INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "KELLANOVA",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "BIOGEN INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "GODADDY INC CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "ESTEE LAUDER INC CLASS A",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "ZIMMER BIOMET HOLDINGS INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.04,
+                "isin": "N/A"
+            },
+            {
+                "name": "GARTNER INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "TRIMBLE INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "NISOURCE INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "HALLIBURTON",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "STEEL DYNAMICS INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "GENUINE PARTS",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "CONSTELLATION BRANDS INC CLASS A",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "F5 INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "LULULEMON ATHLETICA INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "PACKAGING CORP OF AMERICA",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "AMCOR PLC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "APTIV PLC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "DOLLAR TREE INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "WEST PHARMACEUTICAL SERVICES INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "JACOBS SOLUTIONS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "PENTAIR",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "WATERS CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "SNAP ON INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "COTERRA ENERGY INC",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "WEYERHAEUSER REIT",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "KEYCORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "ESSEX PROPERTY TRUST REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "SOUTHWEST AIRLINES",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "LENNOX INTERNATIONAL INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "INVITATION HOMES INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "DECKERS OUTDOOR CORP",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "TEXAS PACIFIC LAND CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "PRINCIPAL FINANCIAL GROUP INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "EVERGY INC",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "MID AMERICA APARTMENT COMMUNITIES",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "LOEWS CORP",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "FORTIVE CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALLIANT ENERGY CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "DOW INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "LAS VEGAS SANDS CORP",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "MCCORMICK & CO NON-VOTING INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "ZEBRA TECHNOLOGIES CORP CLASS A",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "EXPEDITORS INTERNATIONAL OF WASHIN",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "CH ROBINSON WORLDWIDE INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTERNATIONAL FLAVORS & FRAGRANCES",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "ROLLINS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "GEN DIGITAL INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALLEGION PLC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "CENTENE CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "TYSON FOODS INC CLASS A",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "HOLOGIC INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "MASCO CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "TEXTRON INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "KIMCO REALTY REIT CORP",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "CLOROX",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "OMNICOM GROUP INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.03,
+                "isin": "N/A"
+            },
+            {
+                "name": "EVEREST GROUP LTD",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "BEST BUY INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "CF INDUSTRIES HOLDINGS INC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "BUILDERS FIRSTSOURCE INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "INCYTE CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "COOPER INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALEXANDRIA REAL ESTATE EQUITIES RE",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "TKO GROUP HOLDINGS INC CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "DOMINOS PIZZA INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "BALL CORP",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "LYONDELLBASELL INDUSTRIES NV CLASS",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "FOX CORP CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "HEALTHPEAK PROPERTIES INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "AVERY DENNISON CORP",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "SKYWORKS SOLUTIONS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "NORDSON CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "RALPH LAUREN CORP CLASS A",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "IDEX CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "GLOBE LIFE INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "BAXTER INTERNATIONAL INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "NEWS CORP CLASS A",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "REGENCY CENTERS REIT CORP",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "CAMDEN PROPERTY TRUST REIT",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "JM SMUCKER",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "STANLEY BLACK & DECKER INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "VIATRIS INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "UDR REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "FACTSET RESEARCH SYSTEMS INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "NORWEGIAN CRUISE LINE HOLDINGS LTD",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "GENERAC HOLDINGS INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "HOST HOTELS & RESORTS REIT INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "AKAMAI TECHNOLOGIES INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "UNIVERSAL HEALTH SERVICES INC CLAS",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "DAYFORCE INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "ASSURANT INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "JACK HENRY AND ASSOCIATES INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "BXP INC",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "SOLVENTUM CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "PAYCOM SOFTWARE INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "HUNTINGTON INGALLS INDUSTRIES INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "BUNGE GLOBAL SA",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "WYNN RESORTS LTD",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "MOSAIC",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "PINNACLE WEST CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "POOL CORP",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "INVESCO LTD",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "MOLINA HEALTHCARE INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "REVVITY INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "JB HUNT TRANSPORT SERVICES INC",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "HASBRO INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "INTERPUBLIC GROUP OF COMPANIES INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALBEMARLE CORP",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "AES CORP",
+                "sector": "Versorger",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "ALIGN TECHNOLOGY INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "CARMAX INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "MODERNA INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "EPAM SYSTEMS INC",
+                "sector": "IT",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "CONAGRA BRANDS INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "MATCH GROUP INC",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.02,
+                "isin": "N/A"
+            },
+            {
+                "name": "APA CORP",
+                "sector": "Energie",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "BIO TECHNE CORP",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "A O SMITH CORP",
+                "sector": "Industrie",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "ERIE INDEMNITY CLASS A",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "MOLSON COORS BREWING CLASS B",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "LKQ CORP",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "LAMB WESTON HOLDINGS INC",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "CHARLES RIVER LABORATORIES INTERNA",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "FEDERAL REALTY INVESTMENT TRUST RE",
+                "sector": "Immobilien",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "FRANKLIN RESOURCES INC",
+                "sector": "Financials",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "EASTMAN CHEMICAL",
+                "sector": "Materialien",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "FOX CORP CLASS B",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "MGM RESORTS INTERNATIONAL",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "HORMEL FOODS CORP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "HENRY SCHEIN INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "MOHAWK INDUSTRIES INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "CAMPBELL SOUP",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "PARAMOUNT SKYDANCE CORP CLASS B",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "BROWN FORMAN CORP CLASS B",
+                "sector": "Nichtzyklische Konsumg\u00fcter",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "DAVITA INC",
+                "sector": "Gesundheitsversorgung",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "CASH COLLATERAL USD MLIFT",
+                "sector": "Cash und/oder Derivate",
+                "securityType": "Cash Collateral and Margins",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "NEWS CORP CLASS B",
+                "sector": "Kommunikation",
+                "securityType": "Aktien",
+                "weight": 0.01,
+                "isin": "N/A"
+            },
+            {
+                "name": "GBP CASH",
+                "sector": "Cash und/oder Derivate",
+                "securityType": "Geldmarkt",
+                "weight": 0.0,
+                "isin": "N/A"
+            },
+            {
+                "name": "MXN CASH",
+                "sector": "Cash und/oder Derivate",
+                "securityType": "Geldmarkt",
+                "weight": 0.0,
+                "isin": "N/A"
+            },
+            {
+                "name": "EUR CASH",
+                "sector": "Cash und/oder Derivate",
+                "securityType": "Geldmarkt",
+                "weight": 0.0,
+                "isin": "N/A"
+            },
+            {
+                "name": "PHINIA INC",
+                "sector": "Zyklische Konsumg\u00fcter\u00a0",
+                "securityType": "Aktien",
+                "weight": 0.0,
+                "isin": "N/A"
+            },
+            {
+                "name": "S&P500 EMINI DEC 25",
+                "sector": "Cash und/oder Derivate",
+                "securityType": "Futures",
+                "weight": 0.0,
+                "isin": "N/A"
+            }
+        ]
+    },
+    "LU0274211217": {
+        "isin": "LU0274211217",
+        "name": "Xtrackers Euro Stoxx 50 UCITS ETF 1D",
+        "holdings": [
+            {
+                "name": "Gesamtrendite (EUR)",
+                "weight": 11.06,
+                "sector": "N/A",
+                "securityType": "N/A",
+                "isin": "N/A",
+                "currency": "N/A",
+                "country": "N/A"
+            },
+            {
+                "name": "Referenzwert (EUR)",
+                "weight": 10.55,
+                "sector": "N/A",
+                "securityType": "N/A",
+                "isin": "N/A",
+                "currency": "N/A",
+                "country": "N/A"
+            }
+        ]
+    },
+    "LU2009147757": {
+        "isin": "LU2009147757",
+        "name": "Xtrackers S&P 500 Swap UCITS ETF 1D",
+        "holdings": []
+    },
+    "LU1135865084": {
+        "isin": "LU1135865084",
+        "name": "AMUNDI CORE S&P 500 SWAP UCITS ETF ACC",
+        "holdings": []
+    }
+}

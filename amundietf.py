@@ -31,7 +31,7 @@ DOWNLOAD_DIRECTORY = "downloads"
 
 # IMPORTANT: Replace with your actual Gemini API key
 try:
-    genai.configure(api_key="AIzaSyACQwN6IEzGeB59hUvVhGwpWJQiaHr5q9k")
+    genai.configure(api_key="put_your_api_key_here")
 except (ValueError, TypeError) as e:
     print(f"API Key Error: {e}. Please ensure you have set your Gemini API key.")
     exit()

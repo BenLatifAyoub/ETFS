@@ -25,7 +25,7 @@ CSV_DOWNLOAD_TIMEOUT_MS = 30000  # Increased timeout
 GEMINI_MODEL = "gemini-2.0-flash-lite"  # Valid model
 # --- END CONFIGURATION ---
 
-genai.configure(api_key="AIzaSyACQwN6IEzGeB59hUvVhGwpWJQiaHr5q9k")
+genai.configure(api_key="put_your_api_key_here")
 model = genai.GenerativeModel(GEMINI_MODEL)
 
 ISHARES_URL = "https://www.ishares.com/de/privatanleger/de/produkte/etf-investments#/?productView=all&pageNumber=1&sortColumn=totalFundSizeInMillions&sortDirection=desc&dataView=keyFacts&keyFacts=all"

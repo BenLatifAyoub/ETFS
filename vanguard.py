@@ -36,7 +36,7 @@ GEMINI_MODEL = "gemini-2.0-flash-lite"
 
 try:
     # IMPORTANT: Replace with your actual Gemini API key or use environment variables
-    genai.configure(api_key="AIzaSyACQwN6IEzGeB59hUvVhGwpWJQiaHr5q9k") # <-- IMPORTANT: REPLACE WITH YOUR KEY
+    genai.configure(api_key="put_your_api_key_here") # <-- IMPORTANT: REPLACE WITH YOUR KEY
     model = genai.GenerativeModel(GEMINI_MODEL)
 except (ValueError, TypeError) as e:
     print(f"API Key Error: {e}. Please ensure you have set your Gemini API key.")
