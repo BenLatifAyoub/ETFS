@@ -1,0 +1,194 @@
+{
+    "VYMI\nVanguard": {
+        "isin": "VYMI\nVanguard",
+        "name": "Vanguard International High Dividend Yield ETF",
+        "holdings": [
+            {
+                "name": "Nestle SA",
+                "weight": 1.54,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Novartis AG",
+                "weight": 1.52,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Roche Holding AG",
+                "weight": 1.47,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "HSBC Holdings plc",
+                "weight": 1.45,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Shell plc",
+                "weight": 1.42,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Royal Bank of Canada",
+                "weight": 1.32,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Toyota Motor Corp.",
+                "weight": 1.32,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Commonwealth Bank of Australia",
+                "weight": 1.19,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Mitsubishi UFJ Financial Group Inc.",
+                "weight": 1.09,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            },
+            {
+                "name": "Allianz SE",
+                "weight": 1.05,
+                "isin": null,
+                "sector": null,
+                "securityType": null,
+                "country": null,
+                "currency": null
+            }
+        ]
+    },
+    "VMBS\nVanguard": {
+        "isin": "VMBS\nVanguard",
+        "name": "Vanguard Mortgage-Backed Securities ETF",
+        "holdings": [
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 7.25,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 6.48,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 6.39,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 4.65,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 4.49,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 4.15,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 4.01,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Government National Mortgage Assn.",
+                "weight": 3.78,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal National Mortgage Assn.",
+                "weight": 3.62,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            },
+            {
+                "name": "Federal Home Loan Mortgage Corp.",
+                "weight": 3.54,
+                "isin": "N/A",
+                "sector": "N/A",
+                "securityType": "N/A",
+                "country": "N/A",
+                "currency": "N/A"
+            }
+        ]
+    }
+}
