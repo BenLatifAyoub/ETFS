@@ -13,12 +13,14 @@ A collection of Python scripts designed to scrape and process ETF data from vari
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12
 - An API key from [Firecrawl](https://www.firecrawl.dev/)
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+   ```sh
+git clone https://github.com/BenLatifAyoub/ETFS.git
+cd Scrap
+   ```
 
 
 ### 2. **Install dependencies:**
