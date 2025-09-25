@@ -1,0 +1,78 @@
+{
+  "LU1135865084": {
+    "isin": "LU1135865084",
+    "name": "Amundi Core S&P 500 Swap UCITS ETF Acc",
+    "holdings": [
+      {
+        "name": "NVIDIA CORP",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 7.67,
+        "isin": "N/A"
+      },
+      {
+        "name": "MICROSOFT CORP",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 6.67,
+        "isin": "N/A"
+      },
+      {
+        "name": "APPLE INC",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 6.65,
+        "isin": "N/A"
+      },
+      {
+        "name": "AMAZON.COM INC",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 3.77,
+        "isin": "N/A"
+      },
+      {
+        "name": "META PLATFORMS INC-CLASS A",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 2.89,
+        "isin": "N/A"
+      },
+      {
+        "name": "BROADCOM INC",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 2.81,
+        "isin": "N/A"
+      },
+      {
+        "name": "ALPHABET INC CL A",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 2.58,
+        "isin": "N/A"
+      },
+      {
+        "name": "TESLA INC",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 2.1,
+        "isin": "N/A"
+      },
+      {
+        "name": "ALPHABET INC CL C",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 2.08,
+        "isin": "N/A"
+      },
+      {
+        "name": "BERKSHIRE HATHAWAY INC-CL B",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 1.6,
+        "isin": "N/A"
+      }
+    ]
+  }
+}

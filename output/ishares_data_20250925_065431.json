@@ -1,0 +1,154 @@
+{
+  "IE00B5BMR087": {
+    "isin": "IE00B5BMR087",
+    "name": "iShares Core S&P 500 UCITS ETF",
+    "holdings": [
+      {
+        "name": "NVIDIA CORP",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 7.66,
+        "isin": "US67066G1040"
+      },
+      {
+        "name": "MICROSOFT CORP",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 6.66,
+        "isin": "US5949181045"
+      },
+      {
+        "name": "APPLE INC",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 6.64,
+        "isin": "US0378331005"
+      },
+      {
+        "name": "AMAZON COM INC",
+        "sector": "Zyklische Konsumgüter",
+        "securityType": "Aktien",
+        "weight": 3.77,
+        "isin": "US0231351067"
+      },
+      {
+        "name": "META PLATFORMS INC CLASS A",
+        "sector": "Kommunikation",
+        "securityType": "Aktien",
+        "weight": 2.88,
+        "isin": "US30303M1027"
+      },
+      {
+        "name": "BROADCOM INC",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 2.81,
+        "isin": "US11135F1012"
+      },
+      {
+        "name": "ALPHABET INC CLASS A",
+        "sector": "Kommunikation",
+        "securityType": "Aktien",
+        "weight": 2.58,
+        "isin": "US02079K3059"
+      },
+      {
+        "name": "TESLA INC",
+        "sector": "Zyklische Konsumgüter",
+        "securityType": "Aktien",
+        "weight": 2.1,
+        "isin": "US88160R1014"
+      },
+      {
+        "name": "ALPHABET INC CLASS C",
+        "sector": "Kommunikation",
+        "securityType": "Aktien",
+        "weight": 2.07,
+        "isin": "US02079K1079"
+      },
+      {
+        "name": "BERKSHIRE HATHAWAY INC CLASS B",
+        "sector": "Financials",
+        "securityType": "Aktien",
+        "weight": 1.59,
+        "isin": "US0846707026"
+      }
+    ]
+  },
+  "IE00B4L5Y983": {
+    "isin": "IE00B4L5Y983",
+    "name": "iShares Core MSCI World UCITS ETF",
+    "holdings": [
+      {
+        "name": "NVIDIA CORP",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 5.4,
+        "isin": "US67066G1040"
+      },
+      {
+        "name": "APPLE INC",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 4.71,
+        "isin": "US0378331005"
+      },
+      {
+        "name": "MICROSOFT CORP",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 4.46,
+        "isin": "US5949181045"
+      },
+      {
+        "name": "AMAZON COM INC",
+        "sector": "Zyklische Konsumgüter",
+        "securityType": "Aktien",
+        "weight": 2.62,
+        "isin": "US0231351067"
+      },
+      {
+        "name": "META PLATFORMS INC CLASS A",
+        "sector": "Kommunikation",
+        "securityType": "Aktien",
+        "weight": 2.03,
+        "isin": "US30303M1027"
+      },
+      {
+        "name": "BROADCOM INC",
+        "sector": "IT",
+        "securityType": "Aktien",
+        "weight": 1.88,
+        "isin": "US11135F1012"
+      },
+      {
+        "name": "ALPHABET INC CLASS A",
+        "sector": "Kommunikation",
+        "securityType": "Aktien",
+        "weight": 1.82,
+        "isin": "US02079K3059"
+      },
+      {
+        "name": "ALPHABET INC CLASS C",
+        "sector": "Kommunikation",
+        "securityType": "Aktien",
+        "weight": 1.54,
+        "isin": "US02079K1079"
+      },
+      {
+        "name": "TESLA INC",
+        "sector": "Zyklische Konsumgüter",
+        "securityType": "Aktien",
+        "weight": 1.53,
+        "isin": "US88160R1014"
+      },
+      {
+        "name": "JPMORGAN CHASE & CO",
+        "sector": "Financials",
+        "securityType": "Aktien",
+        "weight": 1.08,
+        "isin": "US46625H1005"
+      }
+    ]
+  }
+}

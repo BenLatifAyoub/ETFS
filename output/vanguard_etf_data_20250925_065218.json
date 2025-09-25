@@ -1,0 +1,83 @@
+{
+  "922040845": {
+    "isin": "922040845",
+    "name": "Vanguard 0-3 Month Treasury Bill ETF",
+    "holdings": []
+  },
+  "922021605": {
+    "isin": "922021605",
+    "name": "Vanguard California Tax-Exempt Bond ETF",
+    "holdings": [
+      {
+        "name": "TNDR OPT-FLTRS-6030",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.74,
+        "isin": "88035JLU4"
+      },
+      {
+        "name": "LOS ANGELES UNIF SD-A",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.48,
+        "isin": "544647HP8"
+      },
+      {
+        "name": "LOS ANGELES UNIF SD-A",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.43,
+        "isin": "544647HQ6"
+      },
+      {
+        "name": "SAN FRANCISCO USD",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.37,
+        "isin": "79771TLD7"
+      },
+      {
+        "name": "TNDR OPT-FLTR-XF1920",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.35,
+        "isin": "88035PHL5"
+      },
+      {
+        "name": "CALIFORNIA ST-REF",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.31,
+        "isin": "13063EHD1"
+      },
+      {
+        "name": "BAY AREA CA TOLL AUTH",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.31,
+        "isin": "072024VK5"
+      },
+      {
+        "name": "BAY AREA TOLL AUTH-A",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.29,
+        "isin": "072024UJ9"
+      },
+      {
+        "name": "LOS ANGELES UNIF SD-A",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.28,
+        "isin": "544647HR4"
+      },
+      {
+        "name": "REGENTS OF UNIV CA-BZ",
+        "sector": "N/A",
+        "securityType": "N/A",
+        "weight": 0.28,
+        "isin": "91412HTQ6"
+      }
+    ]
+  }
+}

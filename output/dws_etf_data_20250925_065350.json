@@ -1,0 +1,154 @@
+{
+  "LU2196472984": {
+    "isin": "LU2196472984",
+    "name": "Xtrackers S&P 500 Swap UCITS ETF 5C EUR Hedged",
+    "holdings": [
+      {
+        "name": "MICROSOFT CORP",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 7.418,
+        "isin": "US5949181045"
+      },
+      {
+        "name": "AMAZON COM INC",
+        "sector": "Nicht-Basiskonsumgüter",
+        "securityType": "Equity",
+        "weight": 4.098,
+        "isin": "US0231351067"
+      },
+      {
+        "name": "APPLOVIN CORP CLASS A",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 3.976,
+        "isin": "US03831W1080"
+      },
+      {
+        "name": "APPLE INC",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 3.887,
+        "isin": "US0378331005"
+      },
+      {
+        "name": "NOVARTIS AG",
+        "sector": "Gesundheitswesen",
+        "securityType": "Equity",
+        "weight": 1.792,
+        "isin": "CH0012005267"
+      },
+      {
+        "name": "NVIDIA CORP",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 1.778,
+        "isin": "US67066G1040"
+      },
+      {
+        "name": "BOSTON SCIENTIFIC CORP",
+        "sector": "Gesundheitswesen",
+        "securityType": "Equity",
+        "weight": 1.743,
+        "isin": "US1011371077"
+      },
+      {
+        "name": "BROADCOM INC",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 1.47,
+        "isin": "US11135F1012"
+      },
+      {
+        "name": "BERKSHIRE HATHAWAY INC CLASS B",
+        "sector": "Finanzen",
+        "securityType": "Equity",
+        "weight": 1.453,
+        "isin": "US0846707026"
+      },
+      {
+        "name": "LINDE PLC",
+        "sector": "Material",
+        "securityType": "Equity",
+        "weight": 1.448,
+        "isin": "IE000S9YS762"
+      }
+    ]
+  },
+  "LU0490618542": {
+    "isin": "LU0490618542",
+    "name": "Xtrackers S&P 500 Swap UCITS ETF 1C",
+    "holdings": [
+      {
+        "name": "MICROSOFT CORP",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 7.418,
+        "isin": "US5949181045"
+      },
+      {
+        "name": "AMAZON COM INC",
+        "sector": "Nicht-Basiskonsumgüter",
+        "securityType": "Equity",
+        "weight": 4.098,
+        "isin": "US0231351067"
+      },
+      {
+        "name": "APPLOVIN CORP CLASS A",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 3.976,
+        "isin": "US03831W1080"
+      },
+      {
+        "name": "APPLE INC",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 3.887,
+        "isin": "US0378331005"
+      },
+      {
+        "name": "NOVARTIS AG",
+        "sector": "Gesundheitswesen",
+        "securityType": "Equity",
+        "weight": 1.792,
+        "isin": "CH0012005267"
+      },
+      {
+        "name": "NVIDIA CORP",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 1.778,
+        "isin": "US67066G1040"
+      },
+      {
+        "name": "BOSTON SCIENTIFIC CORP",
+        "sector": "Gesundheitswesen",
+        "securityType": "Equity",
+        "weight": 1.743,
+        "isin": "US1011371077"
+      },
+      {
+        "name": "BROADCOM INC",
+        "sector": "Informationstechnologie",
+        "securityType": "Equity",
+        "weight": 1.47,
+        "isin": "US11135F1012"
+      },
+      {
+        "name": "BERKSHIRE HATHAWAY INC CLASS B",
+        "sector": "Finanzen",
+        "securityType": "Equity",
+        "weight": 1.453,
+        "isin": "US0846707026"
+      },
+      {
+        "name": "LINDE PLC",
+        "sector": "Material",
+        "securityType": "Equity",
+        "weight": 1.448,
+        "isin": "IE000S9YS762"
+      }
+    ]
+  }
+}

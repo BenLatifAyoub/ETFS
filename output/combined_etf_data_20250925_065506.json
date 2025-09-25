@@ -1,0 +1,471 @@
+{
+  "Vanguard": {
+    "922040845": {
+      "isin": "922040845",
+      "name": "Vanguard 0-3 Month Treasury Bill ETF",
+      "holdings": []
+    },
+    "922021605": {
+      "isin": "922021605",
+      "name": "Vanguard California Tax-Exempt Bond ETF",
+      "holdings": [
+        {
+          "name": "TNDR OPT-FLTRS-6030",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.74,
+          "isin": "88035JLU4"
+        },
+        {
+          "name": "LOS ANGELES UNIF SD-A",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.48,
+          "isin": "544647HP8"
+        },
+        {
+          "name": "LOS ANGELES UNIF SD-A",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.43,
+          "isin": "544647HQ6"
+        },
+        {
+          "name": "SAN FRANCISCO USD",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.37,
+          "isin": "79771TLD7"
+        },
+        {
+          "name": "TNDR OPT-FLTR-XF1920",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.35,
+          "isin": "88035PHL5"
+        },
+        {
+          "name": "CALIFORNIA ST-REF",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.31,
+          "isin": "13063EHD1"
+        },
+        {
+          "name": "BAY AREA CA TOLL AUTH",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.31,
+          "isin": "072024VK5"
+        },
+        {
+          "name": "BAY AREA TOLL AUTH-A",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.29,
+          "isin": "072024UJ9"
+        },
+        {
+          "name": "LOS ANGELES UNIF SD-A",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.28,
+          "isin": "544647HR4"
+        },
+        {
+          "name": "REGENTS OF UNIV CA-BZ",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 0.28,
+          "isin": "91412HTQ6"
+        }
+      ]
+    }
+  },
+  "DWS": {
+    "LU2196472984": {
+      "isin": "LU2196472984",
+      "name": "Xtrackers S&P 500 Swap UCITS ETF 5C EUR Hedged",
+      "holdings": [
+        {
+          "name": "MICROSOFT CORP",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 7.418,
+          "isin": "US5949181045"
+        },
+        {
+          "name": "AMAZON COM INC",
+          "sector": "Nicht-Basiskonsumgüter",
+          "securityType": "Equity",
+          "weight": 4.098,
+          "isin": "US0231351067"
+        },
+        {
+          "name": "APPLOVIN CORP CLASS A",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 3.976,
+          "isin": "US03831W1080"
+        },
+        {
+          "name": "APPLE INC",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 3.887,
+          "isin": "US0378331005"
+        },
+        {
+          "name": "NOVARTIS AG",
+          "sector": "Gesundheitswesen",
+          "securityType": "Equity",
+          "weight": 1.792,
+          "isin": "CH0012005267"
+        },
+        {
+          "name": "NVIDIA CORP",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 1.778,
+          "isin": "US67066G1040"
+        },
+        {
+          "name": "BOSTON SCIENTIFIC CORP",
+          "sector": "Gesundheitswesen",
+          "securityType": "Equity",
+          "weight": 1.743,
+          "isin": "US1011371077"
+        },
+        {
+          "name": "BROADCOM INC",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 1.47,
+          "isin": "US11135F1012"
+        },
+        {
+          "name": "BERKSHIRE HATHAWAY INC CLASS B",
+          "sector": "Finanzen",
+          "securityType": "Equity",
+          "weight": 1.453,
+          "isin": "US0846707026"
+        },
+        {
+          "name": "LINDE PLC",
+          "sector": "Material",
+          "securityType": "Equity",
+          "weight": 1.448,
+          "isin": "IE000S9YS762"
+        }
+      ]
+    },
+    "LU0490618542": {
+      "isin": "LU0490618542",
+      "name": "Xtrackers S&P 500 Swap UCITS ETF 1C",
+      "holdings": [
+        {
+          "name": "MICROSOFT CORP",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 7.418,
+          "isin": "US5949181045"
+        },
+        {
+          "name": "AMAZON COM INC",
+          "sector": "Nicht-Basiskonsumgüter",
+          "securityType": "Equity",
+          "weight": 4.098,
+          "isin": "US0231351067"
+        },
+        {
+          "name": "APPLOVIN CORP CLASS A",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 3.976,
+          "isin": "US03831W1080"
+        },
+        {
+          "name": "APPLE INC",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 3.887,
+          "isin": "US0378331005"
+        },
+        {
+          "name": "NOVARTIS AG",
+          "sector": "Gesundheitswesen",
+          "securityType": "Equity",
+          "weight": 1.792,
+          "isin": "CH0012005267"
+        },
+        {
+          "name": "NVIDIA CORP",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 1.778,
+          "isin": "US67066G1040"
+        },
+        {
+          "name": "BOSTON SCIENTIFIC CORP",
+          "sector": "Gesundheitswesen",
+          "securityType": "Equity",
+          "weight": 1.743,
+          "isin": "US1011371077"
+        },
+        {
+          "name": "BROADCOM INC",
+          "sector": "Informationstechnologie",
+          "securityType": "Equity",
+          "weight": 1.47,
+          "isin": "US11135F1012"
+        },
+        {
+          "name": "BERKSHIRE HATHAWAY INC CLASS B",
+          "sector": "Finanzen",
+          "securityType": "Equity",
+          "weight": 1.453,
+          "isin": "US0846707026"
+        },
+        {
+          "name": "LINDE PLC",
+          "sector": "Material",
+          "securityType": "Equity",
+          "weight": 1.448,
+          "isin": "IE000S9YS762"
+        }
+      ]
+    }
+  },
+  "iShares": {
+    "IE00B5BMR087": {
+      "isin": "IE00B5BMR087",
+      "name": "iShares Core S&P 500 UCITS ETF",
+      "holdings": [
+        {
+          "name": "NVIDIA CORP",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 7.66,
+          "isin": "US67066G1040"
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 6.66,
+          "isin": "US5949181045"
+        },
+        {
+          "name": "APPLE INC",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 6.64,
+          "isin": "US0378331005"
+        },
+        {
+          "name": "AMAZON COM INC",
+          "sector": "Zyklische Konsumgüter",
+          "securityType": "Aktien",
+          "weight": 3.77,
+          "isin": "US0231351067"
+        },
+        {
+          "name": "META PLATFORMS INC CLASS A",
+          "sector": "Kommunikation",
+          "securityType": "Aktien",
+          "weight": 2.88,
+          "isin": "US30303M1027"
+        },
+        {
+          "name": "BROADCOM INC",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 2.81,
+          "isin": "US11135F1012"
+        },
+        {
+          "name": "ALPHABET INC CLASS A",
+          "sector": "Kommunikation",
+          "securityType": "Aktien",
+          "weight": 2.58,
+          "isin": "US02079K3059"
+        },
+        {
+          "name": "TESLA INC",
+          "sector": "Zyklische Konsumgüter",
+          "securityType": "Aktien",
+          "weight": 2.1,
+          "isin": "US88160R1014"
+        },
+        {
+          "name": "ALPHABET INC CLASS C",
+          "sector": "Kommunikation",
+          "securityType": "Aktien",
+          "weight": 2.07,
+          "isin": "US02079K1079"
+        },
+        {
+          "name": "BERKSHIRE HATHAWAY INC CLASS B",
+          "sector": "Financials",
+          "securityType": "Aktien",
+          "weight": 1.59,
+          "isin": "US0846707026"
+        }
+      ]
+    },
+    "IE00B4L5Y983": {
+      "isin": "IE00B4L5Y983",
+      "name": "iShares Core MSCI World UCITS ETF",
+      "holdings": [
+        {
+          "name": "NVIDIA CORP",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 5.4,
+          "isin": "US67066G1040"
+        },
+        {
+          "name": "APPLE INC",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 4.71,
+          "isin": "US0378331005"
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 4.46,
+          "isin": "US5949181045"
+        },
+        {
+          "name": "AMAZON COM INC",
+          "sector": "Zyklische Konsumgüter",
+          "securityType": "Aktien",
+          "weight": 2.62,
+          "isin": "US0231351067"
+        },
+        {
+          "name": "META PLATFORMS INC CLASS A",
+          "sector": "Kommunikation",
+          "securityType": "Aktien",
+          "weight": 2.03,
+          "isin": "US30303M1027"
+        },
+        {
+          "name": "BROADCOM INC",
+          "sector": "IT",
+          "securityType": "Aktien",
+          "weight": 1.88,
+          "isin": "US11135F1012"
+        },
+        {
+          "name": "ALPHABET INC CLASS A",
+          "sector": "Kommunikation",
+          "securityType": "Aktien",
+          "weight": 1.82,
+          "isin": "US02079K3059"
+        },
+        {
+          "name": "ALPHABET INC CLASS C",
+          "sector": "Kommunikation",
+          "securityType": "Aktien",
+          "weight": 1.54,
+          "isin": "US02079K1079"
+        },
+        {
+          "name": "TESLA INC",
+          "sector": "Zyklische Konsumgüter",
+          "securityType": "Aktien",
+          "weight": 1.53,
+          "isin": "US88160R1014"
+        },
+        {
+          "name": "JPMORGAN CHASE & CO",
+          "sector": "Financials",
+          "securityType": "Aktien",
+          "weight": 1.08,
+          "isin": "US46625H1005"
+        }
+      ]
+    }
+  },
+  "Amundi": {
+    "LU1135865084": {
+      "isin": "LU1135865084",
+      "name": "Amundi Core S&P 500 Swap UCITS ETF Acc",
+      "holdings": [
+        {
+          "name": "NVIDIA CORP",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 7.67,
+          "isin": "N/A"
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 6.67,
+          "isin": "N/A"
+        },
+        {
+          "name": "APPLE INC",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 6.65,
+          "isin": "N/A"
+        },
+        {
+          "name": "AMAZON.COM INC",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 3.77,
+          "isin": "N/A"
+        },
+        {
+          "name": "META PLATFORMS INC-CLASS A",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 2.89,
+          "isin": "N/A"
+        },
+        {
+          "name": "BROADCOM INC",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 2.81,
+          "isin": "N/A"
+        },
+        {
+          "name": "ALPHABET INC CL A",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 2.58,
+          "isin": "N/A"
+        },
+        {
+          "name": "TESLA INC",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 2.1,
+          "isin": "N/A"
+        },
+        {
+          "name": "ALPHABET INC CL C",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 2.08,
+          "isin": "N/A"
+        },
+        {
+          "name": "BERKSHIRE HATHAWAY INC-CL B",
+          "sector": "N/A",
+          "securityType": "N/A",
+          "weight": 1.6,
+          "isin": "N/A"
+        }
+      ]
+    }
+  }
+}

@@ -4,40 +4,34 @@ A collection of Python scripts for scraping and processing ETF data.
 
 ## Folder Structure
 
-- `all.py`, `amundietf.py`, `Ishare.py`, `vanguard.py`, `Xtrackers.py`: Main scraping scripts for different ETF providers.
+- `Combined.py`, `amundietf.py`, `Ishare.py`, `vanguard.py`, `Xtrackers.py`: Main scraping scripts for different ETF providers.
 - `requirements.txt`: Python dependencies.
-- `downloads/`: Downloaded files (e.g., Excel index constituents).
-- `etf_data/`: Processed ETF data in JSON format.
+- `output/`: Processed ETF data in JSON format.
 
 ## Getting Started
 
 1. **Install dependencies:**
    ```sh
    pip install -r requirements.txt
+   playwright install
    ```
 
 2. **Add your API key:**  
    All scripts require an API key.  
    Open the script you want to run and find the line:
    ```python
-   API_KEY = "put_your_api_key_here"
+   FIRECRAWL_API_KEY = "FIRECRAWL_API_KEY"
    ```
-   Replace `"put_your_api_key_here"` with your actual API key.
+   Replace `"FIRECRAWL_API_KEY"` with your Firecrawl key.
 
 3. **Run a script:**
    ```sh
-   python all.py
+   python Combined.py
    ```
    Or run any of the provider-specific scripts.
 
 ## Output
 
-- Scraped data is saved in `etf_data/` as JSON files.
-- Downloaded files are stored in `downloads/`.
-
-## Notes
-
-- Add your virtual environment and cache folders to `.gitignore` (already included).
-- Make sure to update `requirements.txt` if you add new dependencies.
+- Scraped data is saved in `output/` as JSON files.
 
 ---
